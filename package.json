@@ -1,8 +1,8 @@
 {
-  "name": "sergioviacheslaev.github.io",
+  "name": "viacheslaev.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sergioviacheslaev.github.io",
+  "homepage": "http://viacheslaev.github.io",
   "dependencies": {
     "@chakra-ui/react": "^1.5.2",
     "@emotion/react": "^11.1.5",
