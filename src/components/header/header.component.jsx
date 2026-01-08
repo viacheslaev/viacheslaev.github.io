@@ -14,10 +14,10 @@ const navItems = [
     //     page: 'Projects',
     //     routeUrl: '/projects'
     // },
-    {
-        page: 'CV',
-        routeUrl: 'https://spb.hh.ru/resume/436a961fff0e2b90fe0039ed1f576172536146'
-    },
+    // {
+    //     page: 'CV',
+    //     routeUrl: 'https://spb.hh.ru/resume/436a961fff0e2b90fe0039ed1f576172536146'
+    // },
 ];
 
 const Header = () => {
