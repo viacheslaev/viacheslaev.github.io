@@ -18,18 +18,18 @@ const socialsInfo = [
         svgIcon: FaGithubSquare,
         color: 'black',
     },
-    {
-        name: 'linkedin',
-        socialUrl: 'https://www.linkedin.com/in/sergei-viacheslaev/',
-        svgIcon: FaLinkedin,
-        color: 'linkedin',
-    },
-    {
-        name: 'youtube',
-        socialUrl: 'https://www.youtube.com/playlist?list=PLHkGizioHWF0eImDkUinfDr4ah-YWYHjk',
-        svgIcon: FaYoutubeSquare,
-        color: 'red',
-    },
+    // {
+    //     name: 'linkedin',
+    //     socialUrl: 'https://www.linkedin.com/in/sergei-viacheslaev/',
+    //     svgIcon: FaLinkedin,
+    //     color: 'linkedin',
+    // },
+    // {
+    //     name: 'youtube',
+    //     socialUrl: 'https://www.youtube.com/playlist?list=PLHkGizioHWF0eImDkUinfDr4ah-YWYHjk',
+    //     svgIcon: FaYoutubeSquare,
+    //     color: 'red',
+    // },
     /*{
         name: 'website',
         socialUrl: 'https://sergeyvyacheslaev.com',
