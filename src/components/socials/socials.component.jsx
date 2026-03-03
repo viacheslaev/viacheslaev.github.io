@@ -4,6 +4,7 @@ import {Box, Flex} from '@chakra-ui/react';
 import SociaLink from '../social-link/social-link.component';
 
 import {FaCameraRetro, FaGithubSquare, FaLinkedin, FaTelegram, FaYoutubeSquare,} from 'react-icons/fa';
+import {SiHabr} from "react-icons/all";
 
 const socialsInfo = [
     {
@@ -23,6 +24,12 @@ const socialsInfo = [
         socialUrl: 'https://www.linkedin.com/in/sergei-viacheslaev/',
         svgIcon: FaLinkedin,
         color: 'linkedin',
+    },
+    {
+        name: 'habr',
+        socialUrl: 'https://career.habr.com/viacheslaev',
+        svgIcon: SiHabr,
+        color: 'SiHabr',
     },
     // {
     //     name: 'youtube',
