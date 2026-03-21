@@ -26,17 +26,18 @@ const socialsInfo = [
         color: 'linkedin',
     },
     {
+        name: 'youtube',
+        socialUrl: 'https://www.youtube.com/playlist?list=PLHkGizioHWF0eImDkUinfDr4ah-YWYHjk',
+        svgIcon: FaYoutubeSquare,
+        color: 'red',
+    },
+    {
         name: 'habr',
         socialUrl: 'https://career.habr.com/viacheslaev',
         svgIcon: SiHabr,
         color: 'SiHabr',
     },
-    // {
-    //     name: 'youtube',
-    //     socialUrl: 'https://www.youtube.com/playlist?list=PLHkGizioHWF0eImDkUinfDr4ah-YWYHjk',
-    //     svgIcon: FaYoutubeSquare,
-    //     color: 'red',
-    // },
+
     /*{
         name: 'website',
         socialUrl: 'https://sergeyvyacheslaev.com',
